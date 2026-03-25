@@ -1,5 +1,5 @@
 import Items from "./components/Items";
-import Form from "./components/form";
+import Form from "./components/Form";
 // import { groceryItems } from "./data/groceryItems";
 import { useEffect, useRef, useState } from "react";
 import { ToastContainer, toast } from "react-toastify";
