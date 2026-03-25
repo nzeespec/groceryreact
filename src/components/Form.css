@@ -3,7 +3,7 @@ form h2 {
   margin-bottom: 1.75rem;
   text-transform: capitalize;
   font-weight: 500;
-  color: #ebc712;
+  color: #ea7c28;
   font-size: 26px;
   letter-spacing: 0.5px;
   position: relative;
@@ -18,7 +18,7 @@ form h2::after {
   transform: translateX(-50%);
   width: 80px;
   height: 2px;
-  background: linear-gradient(90deg, transparent, #fffcc6, transparent);
+  background: linear-gradient(90deg, transparent, #b899e8, transparent);
 }
 
 /* Form control */
@@ -60,6 +60,6 @@ form h2::after {
 }
 
 .form-control .btn:hover {
-  background: linear-gradient(135deg, #ef9f27, #eda30f);
+  background: linear-gradient(135deg, #d2c6b3, #cec3ae);
   box-shadow: 0 4px 12px rgba(166, 128, 190, 0.3);
 }
